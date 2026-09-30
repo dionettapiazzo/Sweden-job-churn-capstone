@@ -6,8 +6,8 @@ Foreign-born employees in Sweden are more often in the first year of a job than 
 
 This measure counts anyone who started a job in the past year, whether they changed jobs, entered the job market or recently moved to Sweden. It shows how established people are in the job market, not why anyone left a job. For employers, it points to the first year of a job as the time when support matters most.
 
-- **Interactive charts:** [Tableau Public workbook](https://public.tableau.com/views/JobChurnAmongForeign-BornWorkersinSwedenline/Shareofemployees?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-- **Full case study:** [case_study.pdf](case_study.pdf)
+- **Interactive charts:** [Tableau Public workbook](https://public.tableau.com/views/JobChurnAmongForeign-BornWorkersinSwedenline/Shareofemployees) (click either chart below to open it)
+- **Full case study:** [Casestudy_job_churn.pdf](Casestudy_job_churn.pdf)
 
 ---
 
@@ -84,13 +84,12 @@ The first year of a job is when employees are least established. Under Sweden's 
 | File | Contents |
 |---|---|
 | `README.md` | This summary |
-| `case_study.pdf` | Full case study |
+| `Casestudy_job_churn.pdf` | Full case study |
+| `Changelog_job_churn.pdf` | Changelog: cleaning steps, problems found and fixes |
 | `01_clean_churn.sql` | Cleaning query |
 | `02_churn_by_year.sql` | Analysis query |
-| `churn_by_year.csv` | Final dataset used in Tableau |
-| `chart_churn_trend.png` | Trend chart |
-| `chart_gap.png` | Difference chart |
+| `churn_by_year_gap.csv` | Final dataset used in Tableau |
 
 ## Author
 
-**Dionetta* · [LinkedIn](https://www.linkedin.com/in/dionettapiazzo/)
+**Dionetta** · [LinkedIn](https://www.linkedin.com/in/dionettapiazzo/)
